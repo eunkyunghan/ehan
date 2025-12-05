@@ -124,8 +124,8 @@ footer {
 .projects {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-    gap: 3rem;
-    padding: 2rem;
+    gap: 2rem;
+    padding: 1rem;
 }
 
 .project {
@@ -140,10 +140,6 @@ footer {
     transform: translateY(-5px);
     box-shadow: 1 4px 12 px rgba(0, 0, 0, 0.1);
     transition: all 0, 3s ease;
-}
-
-.project img {
-    width: 100%;
 }
 
 /* The end of index.html */
