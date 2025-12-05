@@ -1,0 +1,1 @@
+This website is my personal branding website project built in the course of DGME 167 & 169 in Fall 2025 (College of San Mateo). All the visuals were carefully made based on basic web design principles. 
