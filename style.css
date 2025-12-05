@@ -131,6 +131,7 @@ footer {
 .project {
     background-color: #fefdfa;
     padding: 1rem;
+    margin-bottom: 3rem;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
     text-align: center;
     height: 200px;
